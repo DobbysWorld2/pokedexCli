@@ -1,0 +1,22 @@
+# Log file created by: go run . | tee repl.log
+repl.log
+
+# Cached Pokemon data
+pokedex.json
+
+# Compiled binary (from: go build)
+pokedexcli
+pokedexcli.exe
+
+# Go test binaries and coverage output
+*.test
+*.out
+
+# Environment variables and secrets
+.env
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
